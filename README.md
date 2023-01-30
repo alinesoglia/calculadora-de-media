@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Calculadora de Média é um aplicativo para auxiliar estudantes a descobrirem sua média e se serão aprovados ou reprovados no final do ano.
 
-- [Visite o projeto online](https://codepen.io/alinesoglia/pen/YzjGyJE)
+- [Visite o projeto online](https://alinesoglia.github.io/calculadora-de-media/)
 
 ---
